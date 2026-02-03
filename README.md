@@ -1,2 +1,0 @@
-# CCL
-CCL programs
